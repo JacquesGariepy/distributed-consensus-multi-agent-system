@@ -39,10 +39,6 @@ This project implements a distributed consensus simulation in a multi-agent syst
 
 2. Ensure you have Python 3.6+ installed.
 
-3. Install the required dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 

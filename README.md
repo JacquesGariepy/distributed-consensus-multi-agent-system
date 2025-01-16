@@ -34,7 +34,7 @@ This project implements a distributed consensus simulation in a multi-agent syst
 1. Clone the repository:
     ```sh
     git clone https://github.com/JacquesGariepy/distributed-consensus-multi-agent-system.git
-    cd distributed-consensus-multi-agent-system-simulation
+    cd distributed-consensus-multi-agent-system
     ```
 
 2. Ensure you have Python 3.6+ installed.
